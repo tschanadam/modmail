@@ -119,6 +119,11 @@ $ git clone https://github.com/kyb3r/modmail
 $ cd modmail
 ```
 
+If you don't have pipenv installed:
+```console
+$ pip3 install pipenv
+```
+
 Install dependencies:
 
 ```console
